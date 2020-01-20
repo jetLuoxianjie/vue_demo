@@ -1,6 +1,6 @@
 # vue_demo2
 
-> A Vue.js project
+> 配置好了 饿了么ui  axios 跨区请求 可以放心食用
 
 ## Build Setup
 
